@@ -1,4 +1,6 @@
-### Hi there, my name is Mikael 👋
+### Hi there, I'm Mikael 👋
+## I'm a hobby coder who strives to constantly learn more about programming and development.
+
 
 - 🌱 I’m currently learning: Javascript, NodeJS, React
 
