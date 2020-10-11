@@ -1,4 +1,3 @@
-# [![Header](https://raw.githubusercontent.com/Widell79/Widell79/main/mike.png "Header")]
 ### Hi there 👋
 
 
