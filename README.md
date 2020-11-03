@@ -1,5 +1,5 @@
 ### Hi there, I'm Mikael 👋
-## I'm a hobby coder who strives to constantly learn more about programming and development.
+## I'm a hobby programmer/developer who strives to constantly improve my skills and learn new areas.
 
 
 - 🌱 I’m currently learning: Javascript, NodeJS, React
