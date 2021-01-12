@@ -17,7 +17,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/widell79/Widell79">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widell79&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widell79&title_color=#81c7ea&text_color=#878585&icon_color=2bbc8a&bg_color=#e0f8fc" />
 </a>
 <a href="https://github.com/Widell79/Widell79">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Widell79&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Widell79's GitHub Stats" />
@@ -28,6 +28,7 @@
 <!--
 ![Widell79 github stats](https://github-readme-stats.vercel.app/api?username=widell79)
 **Widell79/Widell79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
