@@ -2,8 +2,9 @@
 ## I'm a hobby programmer/developer who strives to constantly improve my skills and learn new areas.
 
 
-- 🌱 I’m currently learning: 
-React
+**I’m currently learning:**
+- React
+- Redux
 
 
 ## 🔧 Technologies & Tools
