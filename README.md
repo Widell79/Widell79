@@ -1,10 +1,13 @@
 ### Hi there, I'm Mikael 👋
-## I'm a hobby programmer/developer who strives to constantly improve my skills and learn new areas.
+## I'm a Web and Software developer who strives to constantly improve my skills and learn new areas.
 
 
-**I’m currently learning:**
+**Currently learning:**
 - React
 - Redux
+
+**Currently working on:** 
+- A portfolio website.
 
 
 ## 🔧 Technologies & Tools
