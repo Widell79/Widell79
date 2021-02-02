@@ -7,7 +7,9 @@
 - Redux
 
 **Currently working on:** 
-- A portfolio website.
+- A portfolio website:
+[CodeByVidell](https://codebyvidell.netlify.app/)
+
 
 
 ## 🔧 Technologies & Tools
