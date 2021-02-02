@@ -1,5 +1,5 @@
-### Hi there, I'm Mikael 👋
-## I'm a Web and Software developer who strives to constantly improve my skills and learn new areas.
+## Hi there, I'm Mikael 👋
+### I have a strong interest in web and software development and strive to constantly improve my skills and learn new areas.
 
 
 **Currently learning:**
