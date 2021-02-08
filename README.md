@@ -3,8 +3,7 @@
 
 
 **Currently learning:**
-- React
-- Redux
+- React Redux
 
 **Currently working on:** 
 - A portfolio website:
