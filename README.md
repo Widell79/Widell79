@@ -3,7 +3,8 @@
 
 
 **Currently learning:**
-- React Redux
+- GraphQL
+- Headless CMS
 
 **Currently working on:** 
 - A portfolio website:
