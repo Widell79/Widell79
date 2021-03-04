@@ -3,8 +3,7 @@
 
 
 **Currently learning:**
-- GraphQL
-- Headless CMS
+- Udacity's React Nanodegree program
 
 **Currently working on:** 
 - A portfolio website:
@@ -34,6 +33,9 @@
 ![Widell79 github stats](https://github-readme-stats.vercel.app/api?username=widell79)
 **Widell79/Widell79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**Currently learning:**
+- GraphQL
+- Headless CMS
 
 Here are some ideas to get you started:
 
