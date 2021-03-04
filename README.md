@@ -3,7 +3,7 @@
 
 
 **Currently learning:**
-- Udacity's [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019)
+- Udacity's [Become a React Developer](https://www.udacity.com/course/react-nanodegree--nd019)
 
 **Currently working on:** 
 - A portfolio website:
