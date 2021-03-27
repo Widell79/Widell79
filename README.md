@@ -7,7 +7,7 @@
 
 **Currently working on:** 
 - A portfolio website:
-[CodeByVidell](https://codebyvidell.netlify.app/)
+[CodeByVidell](https://codebyvidell.com)
 
 
 ## 🔧 Technologies & Tools
