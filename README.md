@@ -1,12 +1,14 @@
 ## Hi there, I'm Mikael 👋
 ### I have a strong interest in web and software development and strive to constantly improve my skills and learn new areas.
 
+## I'm very proud of my [React certificate](https://confirm.udacity.com/YDANGFTK) from Udacity React Nanodegree Program 😄
+
 
 **Currently learning:**
-- Udacity's [Become a React Developer](https://www.udacity.com/course/react-nanodegree--nd019)
+- GraphQL
 
 **Currently working on:** 
-- A portfolio website:
+- All kinds of projects that may end up on my portfolio website:
 [CodeByVidell](https://codebyvidell.com)
 
 
@@ -22,9 +24,7 @@
 
 <!--
 
-**Currently learning:**
-- GraphQL
-- Headless CMS
+
 
 Here are some ideas to get you started:
 
