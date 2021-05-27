@@ -5,7 +5,7 @@
 
 
 **Currently learning:**
-- GraphQL
+- TypeScript
 
 **Currently working on:** 
 - All kinds of projects that may end up on my portfolio website:
