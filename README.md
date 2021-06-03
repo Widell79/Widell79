@@ -14,8 +14,9 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
