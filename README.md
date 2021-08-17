@@ -5,7 +5,7 @@
 
 
 **Currently learning:**
-- TypeScript
+- AWS Serverless
 
 **Currently working on:** 
 - All kinds of projects that may end up on my portfolio website:
