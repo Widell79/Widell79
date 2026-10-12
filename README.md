@@ -4,14 +4,6 @@
 ## I'm very proud of my [React certificate](https://confirm.udacity.com/YDANGFTK) from Udacity React Nanodegree Program 😄
 
 
-**Currently learning:**
-- Next JS
-
-**Currently working on:** 
-- All kinds of projects that may end up on my portfolio website:
-[CodeByVidell](https://codebyvidell.com)
-
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
